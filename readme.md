@@ -93,4 +93,4 @@ The organisation of the repository follows common conventions and therefore requ
 
 **License:** [MIT License](license.txt)
 
-**Acknowledgements:** The first author would also like to thank his ghostwriter [Gregory Peter Taylor](https://chatgpt.com).
+**Acknowledgements:** The second author would also like to thank his ghostwriter [Gregory Peter Taylor](https://chatgpt.com).
