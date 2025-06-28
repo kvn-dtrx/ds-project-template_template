@@ -8,9 +8,9 @@
 This repository represents the
 To The logical root directory of this repository is moved to [`meta/`](./meta/)!
 
-Won't employ  we decided to move the TO make templating for the user as convenient as possible (and submodules subtrees or dedicated documentation branches), the logical root of 
+Won't employ  we decided to move the TO make templating for the user as convenient as possible (and submodules subtrees or dedicated documentation branches), the logical root of
 
-This note is intended to be removed before project submission.
+This note should be removed before project submission, of course.
 
 ---
 
