@@ -1,0 +1,57 @@
+# Base
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon[]
+._*
+
+# Linux
+*~
+.nfs*
+
+# Windows
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Logs and temporary files
+**/log{,s}/
+*.bak
+*.log
+*.swo
+*.swp
+*.tmp
+
+# ---
+
+# Python
+
+.python-version
+.venv/
+*.egg-info/
+__pycache__/
+*.pyi
+
+# ---
+
+# Data Science
+
+data/*
+!data/.gitkeep
+
+**/plots/*
+!**/plots/.gitkeep
+
+models/*
+!models/.gitkeep
+
+**/logs/*
+!**/logs/.gitkeep
+
+**/target/*
+!**/target/.gitkeep
