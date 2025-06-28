@@ -3,20 +3,19 @@
 
 ---
 
-⚠️⚠️⚠️ **NOTE** ⚠️⚠️⚠️
+⚠️⚠️⚠️
 
-This repository represents the
-To The logical root directory of this repository is moved to [`meta/`](./meta/)!
+**NOTE:**
 
-Won't employ  we decided to move the TO make templating for the user as convenient as possible (and submodules subtrees or dedicated documentation branches), the logical root of
+The logical root directory of the present location actually corresponds to the physical root of [this repository](https://github.com/kvn-dtrx/ds-project-template).
 
-This note should be removed before project submission, of course.
+This note should be removed prior to project submission, of course.
+
+⚠️⚠️⚠️
 
 ---
 
 ## Synopsis
-
-### Problem Description
 
 <!-- 
 TODO: Write this section 
@@ -40,7 +39,7 @@ Aspects which can be addressed here:
 
 ## Repository Organisation
 
-The organisation of the repository follows common conventions and therefore requires little explanation. Our analysis notebooks (with technical details) are subordinated to [`notebooks/`](./notebooks/)
+The organisation of the repository follows common conventions and therefore requires little explanation. Our analysis notebooks (with technical details) are subordinated to [`notebooks/`](./notebooks/).
 
 ## Installation
 
@@ -58,10 +57,10 @@ The organisation of the repository follows common conventions and therefore requ
        cd <reponame>
    ```
 
-2. Choose a setup option based on your operating system and intended use:
+2. Choose the right setup option based on your operating system:
 
-   - `make basic-unix` / `make basic-win`: for general use or exploration (core dependencies only).
-   - `make dev-unix` / `make dev-win`: for contributors (includes development tools like linters and pre-commit hooks).
+   - `make unix`: macOS/Linux.
+   - `make win`: Windows (PowerShell).
 
    If you prefer to run the commands manually yourself or want to inspect what each `make` target does first, use the `-n` flag for a dry run. This prints the commands without executing them:
 
@@ -90,8 +89,8 @@ The organisation of the repository follows common conventions and therefore requ
 
 **Authors:** [The Octocat](https://github.com/octocat), [Ghost](https://github.com/ghost)
 
-**Template:** This repository was created from the [10NN DS/ML Project Template](https://github.com/neuefische/ds-take-me-home_template).
+**Template:** This repository was instantiated from this [Data Science Project Template](https://github.com/kvn-dtrx/ds-project-template).
 
 **License:** [MIT License](license.txt)
 
-**Acknowledgements:** The first author would also like to thank his ghostwriter [Gregory Peter Thompson](https://chatgpt.com).
+**Acknowledgements:** The first author would also like to thank his ghostwriter [Gregory Peter Taylor](https://chatgpt.com).

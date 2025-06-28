@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # ---
-# description: Utility functions for local notebook operations.
+# description: Reports the remaining TODO strings across the project.
 # ---
 
 OUTPUT_NAME="todos.md"
@@ -9,7 +9,7 @@ OUTPUT_DIR="target"
 # REGEX='^[[:space:]]*(# |\*\*)?TODO:'
 REGEX='^[[:space:]]*(#|\"#|\*\*)[[:space:]]*TODO:'
 
-script_path="$(realpath "$0")"
+script_path="$(realpath "${0}")"
 script_name="$(basename "${script_path}")"
 script_dir="$(dirname "${script_path}")"
 output_path="${script_dir}/${OUTPUT_DIR}/${OUTPUT_NAME}"
