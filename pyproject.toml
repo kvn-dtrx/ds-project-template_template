@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 # TODO: Update project name
-name = "ds-take-me-home_template"
+name = "ds-project-template"
 # TODO: Update version number
 version = "0.1.0"
 # TODO: Update description
-description = "DS *Take Me Home* Template"
+description = "DS Project Template"
 # TODO: Update authors
 authors = [
     { name = "The Octocat", email = "octocat@github.com" },
