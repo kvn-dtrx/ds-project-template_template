@@ -4,6 +4,8 @@
 # description: Reports the remaining TODO strings across the project.
 # ---
 
+# ---
+
 OUTPUT_NAME="todos.md"
 OUTPUT_DIR="target"
 # REGEX='^[[:space:]]*(# |\*\*)?TODO:'

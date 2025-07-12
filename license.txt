@@ -3,7 +3,7 @@ MIT License
 **TODO:** Change licence if you prefer another:
 <https://choosealicense.com>
 **TODO:** Update year and author
-Copyright (c) 2025 User 1, User 2, ...
+Copyright (c) 2025 Author 1, Author 2, ...
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

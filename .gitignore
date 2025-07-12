@@ -44,11 +44,11 @@ __pycache__/
 data/*
 !data/.gitkeep
 
-**/plots/*
-!**/plots/.gitkeep
-
 models/*
 !models/.gitkeep
+
+**/plots/*
+!**/plots/.gitkeep
 
 **/logs/*
 !**/logs/.gitkeep
